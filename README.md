@@ -115,7 +115,8 @@ With these modifications, your resume is now set up be formatted by GitHub Pages
 
 ## More Resources
 - This [Markdown tutorial](https://www.markdowntutorial.com/) is a great place to get started with Markdown. It provides little lessons so you can get hands on when learning.
-- In case you haven't already read Andrew Etter's book _Modern Technical Writing_ cover to cover already, you can check it out [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). It covers a plethora of useful topics to help you convey technical information in a concise manner and more.
+- In case you haven't already read Andrew Etter's book _Modern Technical Writing_ cover to cover already, you can check it out [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). It covers a plethora of useful topics to help you convey technical information in a concise manner and more.  
+- If you really want to get familiar with Jekyll templates, try making your own! [This tutorial](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/) walks you through the structure behind Jekyll s
 
 ## Acknowledgements
 - Group 6 Members Aaditya Raj Gupta, Luxiang Lin, and Mahamud Hasan Asif for their wonderful peer feedback on this readme and my resume.
