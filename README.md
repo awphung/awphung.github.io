@@ -45,7 +45,7 @@ Our next step is getting the repository on your local machine so you can start p
 1. Navigate to the GitHub Desktop [download portal](https://desktop.github.com/)
 2. Click on the download button for your operating system.
 3. Wait for the installer to complete the installation.
-4. Once completed you should see this:
+4. Once completed you should see this:  
 ![GitHub Desktop Home](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Github%20Desktop%20start.jpg)
 
 ### Getting Your Repository on Your Local Machine
@@ -111,7 +111,7 @@ With these modifications, your resume is now set up be formatted by GitHub Pages
 5. Now, hit the **Push origin** button on the top toolbar or in the blue highlighted section.
 ![Push to origin buttons](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Github%20Desktop%20Push.jpg)
 
-Congratulations, you've just pushed your resume onto your repository! That means your resume is ready to be processed and statically generated into a website! Keep in mind it will take a couple of minutes to generate it, so take this time to continue reading this readme for some cool tips :sunglasses:.
+:tada:Congratulations, you've just pushed your resume onto your repository! That means your resume is ready to be processed and statically generated into a website! Keep in mind it will take a couple of minutes to generate it, so take this time to continue reading this readme for some cool tips :sunglasses:.
 
 ## More Resources
 - This [Markdown tutorial](https://www.markdowntutorial.com/) is a great place to get started with Markdown. It provides little lessons so you can get hands on when learning.
