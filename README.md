@@ -22,7 +22,7 @@ A practice that Andrew Etter strongly suggests is to host writing on a website i
 - Websites are incredibly diverse in structure and format; writing a website perfectly curated for your written work will take it to the next level.
 
 ### Forking the Resume Template
-1. Navigate to the resume template hosted here
+1. Navigate to the resume template hosted [here](https://github.com/ankitsultana/researcher)
 2. Click on the "Fork" button.
 3. Set the **Repository Name** to your GitHub username followed by ```.github.io```.
     - For example, my repository would be named ```awphung.github.io```.
