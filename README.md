@@ -6,13 +6,13 @@ This step-by-step guide will bring you through the process of hosting your own r
 ## Purpose: Guide a User Step-By-Step Through Hosting Their Resume on Github Pages
 ## Pre-requisites:  
 1. A github account
-    - If you're new to GitHub, step on over to github.com and create a new account.
+    - If you're new to GitHub, step on over to [github.com](https://github.com/) and create a new account.
     - Don't opt in for the premium plan, a free account is all we need.
 2. Ghostwriter markdown editor
-    - Ghostwriter is free and can be downloaded here (insert link).
+    - Ghostwriter is free and can be downloaded [here](https://ghostwriter.kde.org/).
     - Its also handy whenever you want to make changes to your markdown resume as it has a live split preview so you can see any formatting changes immediately.
 3. A markdown-formatted resume
-	- If you are unfamiliar with writing with markdown, there are some quick starts and guides listed in the _more resources_ section.
+	- If you are unfamiliar with writing with markdown, there are some quick starts and guides listed in the [more resources](more-resources) section.
 
 ## Getting the Website Template
 
@@ -113,7 +113,7 @@ With these modifications, your resume is now set up be formatted by GitHub Pages
 
 :tada:Congratulations, you've just pushed your resume onto your repository! That means your resume is ready to be processed and statically generated into a website! Keep in mind it will take a couple of minutes to generate it, so take this time to continue reading this readme for some cool tips :sunglasses:.
 
-## More Resources
+## <a name="more-resources"></a>More Resources
 - This [Markdown tutorial](https://www.markdowntutorial.com/) is a great place to get started with Markdown. It provides little lessons so you can get hands on when learning.
 - In case you haven't already read Andrew Etter's book _Modern Technical Writing_ cover to cover already, you can check it out [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). It covers a plethora of useful topics to help you convey technical information in a concise manner and more.
 
