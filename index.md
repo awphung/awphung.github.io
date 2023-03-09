@@ -31,7 +31,7 @@ Coursework: Data Structures and Algorithms, Databases, Object Oriented Programmi
     </span>
 </p>
 <p style="text-align:left;">
-    Technologies: Git, Azure, VIM, Android Studio, Figma
+    Technologies: Git, Azure, VIM, Figma
     <span style="float:right;">
         Frameworks: React, Flutter, Material
     </span>
