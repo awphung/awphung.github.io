@@ -79,8 +79,8 @@ Now onto the fun part; getting your resume into this template and making it your
     - For example, I'd put ```awphung.github.io``` here.
 >Warning! **Do not** remove the quotation marks around the **url:** text there when you modify this line.
 9. On line 3, delete all the text so you only have ```"\"``` remaining
-    - Here's the first 3 lines in my config file as an example:
-![Config modification example]()
+    - Here's the first 3 lines in my config file as an example:  
+![Config modification example](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Config%20changes.jpg)
 10. Delete lines 18-24.
     - These are navigation buttons for a sidebar, which we most likely won't for a standard resume. 
 11. Save the config file.
@@ -96,7 +96,7 @@ Etter heavily supports the use of lightweight markup languages for many reasons,
 2. Copy all of the content in your resume.
 3. Now open ```index.md``` in ghostwriter.
 4. Note the first 4 lines of code, do **not** modify them.
->If you do the layout will be ignored or incorrect.
+>Warning! If you do the layout will be ignored or incorrect.
 5. Replace the rest of the content in this file with your copied resume content.
 6. Save this file.
 
@@ -130,4 +130,7 @@ With these modifications, your resume is now set up be formatted by GitHub Pages
 A big draw to Markdown is the lack of compatibility issues that plague other word processors such as Microsoft's Word. Because we are tied to a specific format or list of formats when using a word processor, things like cross platform collaboration can be very time consuming and frustration-riddled. Ever convert a LaTeX file to PDF and then open that PDF in Word? It sucks. Markdown on the other hand is near universal, can be edited at full capacity with any text editor, and file sizes tend to be much smaller in comparison to other popular document formats.  
 
 ### What else can I do with my resume website? 
-Pretty much anything you can dream of! If you just want to update your resume's content, simply update ```index.md``` and push the changes to this repository. If you want to get a bit serious with it, there's tons of Jekyll based resume formats available online that you can apply to this repository. Not to mention the plethora of things you can accomplish with a bit of Javascript and CSS; its just like any other statically generated website! 
+Pretty much anything you can dream of! If you just want to update your resume's content, simply update ```index.md``` and push the changes to this repository. If you want to get a bit serious with it, there's tons of Jekyll based resume formats available online that you can apply to this repository. Not to mention the plethora of things you can accomplish with a bit of Javascript and CSS; its just like any other statically generated website!  
+
+### Why does my resume website look weird?  
+You most likely missed a step while modifying the ```_config.yml``` file, make sure you follow those [steps closely](#changing-the-configuration-file). If you're certain you haven't missed any steps there, try to take a look at your ```index.md``` file and ensure that the first 4 lines haven't been modified at all.
