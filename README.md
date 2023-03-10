@@ -22,13 +22,13 @@ A practice that Andrew Etter strongly suggests is to host writing on a website i
 - Websites are incredibly diverse in structure and format; writing a website perfectly curated for your written work will take it to the next level.
 
 ### Forking the Resume Template
-1. Navigate to the resume template hosted [here](https://github.com/ankitsultana/researcher)
-2. Click on the "Fork" button.
+1. Navigate to the resume template hosted here
+2. Click on the **Fork** button.
 3. Set the **Repository Name** to your GitHub username followed by ```.github.io```.
     - For example, my repository would be named ```awphung.github.io```.
     
 ![The correct fork setup](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Create%20a%20new%20fork.jpg)
->Warning! If you don't have the "username" part of the repository name set as _exactly_ your username, GitHub Pages won't work.  
+>Warning! If you don't have the **username** part of the repository name set as _exactly_ your username, GitHub Pages won't work.  
 4. Click on the **Create fork** button.
 5. Wait for the fork to complete.
 6. Once complete, navigate to the **Settings** button near the top of the repository.
@@ -49,12 +49,12 @@ Our next step is getting the repository on your local machine so you can start p
 ![GitHub Desktop Home](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Github%20Desktop%20start.jpg)
 
 ### Getting Your Repository on Your Local Machine
-1. Click on the "Clone a repository from the Internet..." button.
+1. Click on the **Clone a repository from the Internet...** button.
 2. Sign in to your GitHub account.
-3. Under "Your repositories" select your forked repository from earlier.
+3. Under **Your repositories** select your forked repository from earlier.
 4. Select your desired local path for the repository.
 >Note: When picking a local destination for your repository, pick a directory that is empty to avoid any conflicts while cloning.
-5. When prompted, select the "For my own purposes" option.
+5. When prompted, select the **For my own purposes** option.
 6. Click on the continue button.
 7. Now your GitHub Desktop should look like this:  
 ![GitHub Desktop in repo](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Github%20Desktop%20Cloned%20Repo.jpg)
@@ -79,6 +79,8 @@ Now onto the fun part; getting your resume into this template and making it your
     - For example, I'd put ```awphung.github.io``` here.
 >Warning! **Do not** remove the quotation marks around the **url:** text there when you modify this line.
 9. On line 3, delete all the text so you only have ```"\"``` remaining
+    - Here's the first 3 lines in my config file as an example:
+![Config modification example]()
 10. Delete lines 18-24.
     - These are navigation buttons for a sidebar, which we most likely won't for a standard resume. 
 11. Save the config file.
@@ -105,7 +107,7 @@ With these modifications, your resume is now set up be formatted by GitHub Pages
     - You will see something that looks like this:
 ![GitHub Desktop changes shown](https://github.com/awphung/awphung.github.io/blob/gh-pages/resources/Github%20Desktop%20Changes.jpg)  
 2. Navigate to the **Summary (required)** text field near the bottom left corner.
-3. Summarize the changes made.
+3. Write that you modified ```index.md``` and ```_config.yml```.
     - You can also add a more detailed description if you wish, but that is optional.
 4. Click the **Commit to gh-pages** button on the bottom left of GitHub Desktop.
 5. Now, hit the **Push origin** button on the top toolbar or in the blue highlighted section.
@@ -116,7 +118,7 @@ With these modifications, your resume is now set up be formatted by GitHub Pages
 ## More Resources
 - This [Markdown tutorial](https://www.markdowntutorial.com/) is a great place to get started with Markdown. It provides little lessons so you can get hands on when learning.
 - In case you haven't already read Andrew Etter's book _Modern Technical Writing_ cover to cover already, you can check it out [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). It covers a plethora of useful topics to help you convey technical information in a concise manner and more.  
-- If you really want to get familiar with Jekyll templates, try making your own! [This tutorial](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/) walks you through the structure behind Jekyll s
+- If you really want to get familiar with Jekyll templates, try making your own! [This tutorial](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/) walks you through the structure behind Jekyll themes, and by the end you'll have your own custom theme!
 
 ## Acknowledgements
 - Group 6 Members Aaditya Raj Gupta, Luxiang Lin, and Mahamud Hasan Asif for their wonderful peer feedback on this readme and my resume.

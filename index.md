@@ -1,6 +1,6 @@
 ## <center>Anthony Phung</center>
 
-#### <center>phunga1@mymanitoba.ca | (431)688-6665</center>
+#### <center>phunga1@mymanitoba.ca </center>
 
 
 ## **Experience**  
